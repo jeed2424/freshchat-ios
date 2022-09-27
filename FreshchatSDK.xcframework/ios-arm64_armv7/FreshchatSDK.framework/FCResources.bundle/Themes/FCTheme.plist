@@ -1162,7 +1162,7 @@
 			<key>textSize</key>
 			<string>15.0f</string>
 			<key>textColor</key>
-			<string>#222222</string>
+			<string>#FFFFFF</string>
 		</dict>
 		<key>FAQCategoryDescriptionTextStyle</key>
 		<dict>
@@ -1187,7 +1187,7 @@
 			<key>textSize</key>
 			<string>22.0f</string>
 			<key>background</key>
-			<string>#535353</string>
+			<string>#2986CC</string>
 		</dict>
 		<key>FAQCategoryListItemStyle</key>
 		<dict>
